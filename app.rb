@@ -3,7 +3,15 @@ require "sinatra"
 class App < Sinatra::Base
   
   get '/' do 
-    "i love bok choy. why isnt this working for anyone else"
+    "i love bok choy."
     
 end
+
+  get '/nutritious' do 
+    "has lots of fiber"
+    
+  end
+
+
+
 end 
