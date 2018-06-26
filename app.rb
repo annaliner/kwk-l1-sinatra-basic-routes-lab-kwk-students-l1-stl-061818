@@ -31,7 +31,7 @@ class App < Sinatra::Base
   end
   
   get '/favorite-song' do
-    "My favorite song is Truly Julie's Blues"
+    "My favorite song is Truly Julie's Blues by Cut Worms"
   
   
   
