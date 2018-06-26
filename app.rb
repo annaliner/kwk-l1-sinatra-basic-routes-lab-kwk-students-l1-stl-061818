@@ -1,17 +1,17 @@
-require "sinatra"
+# require "sinatra"
 
-class App < Sinatra::Base
+# class App < Sinatra::Base
   
-  get '/' do 
-    "i love bok choy."
+#   get '/' do 
+#     "i love bok choy."
     
-end
+# end
 
-  get '/nutritious' do 
-    "has lots of fiber"
+#   get '/nutritious' do 
+#     "has lots of fiber"
     
-  end
+#   end
 
 
 
-end 
+# end 
